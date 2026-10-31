@@ -1,2 +1,4 @@
 ターミナルで以下を実行してから学習開始
 .\.venv\Scripts\Activate.ps1
+
+ターミナルを閉じたら無効化されるがdeactivateでも終了できる
